@@ -1,0 +1,6 @@
+{
+  "name": "EXAM TIPS — Smart Learning & Exam Preparation Portal",
+  "description": "University exam preparation LMS featuring complete 5-unit syllabus notes, interactive technical diagrams, 2/5/8/10-mark question bank, timed MCQ practice tests, and an admin content studio.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
